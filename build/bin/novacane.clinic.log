@@ -1,0 +1,284 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  dllmain.cpp
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\vector.h(79,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\vector.h(79,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\vector.h(79,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\settings.h(106,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\sdk.h(1233,34): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\sdk.h(1233,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\sdk.h(1233,46): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\sdk.h(1233,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\render.h(69,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\render.h(73,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\render.h(74,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\render.h(75,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\render.h(76,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(266,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(273,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(282,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(287,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(295,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(319,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(326,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(330,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(331,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(332,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(333,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(339,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(403,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(403,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(407,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(435,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(439,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(475,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(482,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(482,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(485,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(519,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(526,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(526,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(531,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(531,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(535,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(571,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(587,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(707,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(713,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(717,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(717,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(729,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(744,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(745,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(780,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(787,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(787,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(793,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(793,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(797,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(831,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(842,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(935,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(942,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(942,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(947,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(947,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(951,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(1025,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\ZeroGUI.h(1025,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(22,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(23,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(150,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(157,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(158,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(160,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(161,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(267,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(289,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(296,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(306,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(313,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(337,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(337,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(339,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(339,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(830,221): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(830,201): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(830,177): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(830,173): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(830,163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(847,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(922,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\hooking.h(923,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\memory.h(21): warning C4715: 'read<ugameviewportclient *>': not all control paths return a value
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\memory.h(21): warning C4715: 'read<mesh *>': not all control paths return a value
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\memory.h(21): warning C4715: 'read<weakspot_struft_0x2b8>': not all control paths return a value
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\memory.h(21): warning C4715: 'read<enum fort_item_tier>': not all control paths return a value
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\memory.h(21): warning C4715: 'read<ftext>': not all control paths return a value
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\memory.h(21): warning C4715: 'read<tarray<ulocalplayer *> >': not all control paths return a value
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\memory.h(21): warning C4715: 'read<uworld *>': not all control paths return a value
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\memory.h(21): warning C4715: 'read<float>': not all control paths return a value
+E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\memory.h(21): warning C4715: 'read<uobject *>': not all control paths return a value
+  All 356 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  novacane.clinic.vcxproj -> E:\! Saturn\Saturn FN\Saturn Private\v1.1\exploits lol\paysons ud selfcoded internal\build\payson int.dll
