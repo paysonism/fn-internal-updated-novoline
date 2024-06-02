@@ -3,8 +3,8 @@
 
 
 enum offsets : std::int32_t {
-	BoneMatrix = 0x19A205C, // updated for v30.00
-	StaticFindObject = 0x16CC96C, // updated for v30.00
+	BoneMatrix = 0x1EB8938, // updated for v30.01
+	StaticFindObject = 0x146D58C, // updated for v30.01
 	CurrentVehicle = 0x2960,
 	LastFireTime = 0xC50,
 	LastFireTimeVerified = 0xC54,
